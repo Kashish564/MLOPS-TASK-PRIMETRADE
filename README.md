@@ -3,7 +3,7 @@
 A small batch job that loads OHLCV data, computes a rolling mean on `close`, generates a binary signal, and writes structured metrics + logs.
 
 ---
-
+MADE CHANGE HERE
 ## How it works
 
 1. Reads config from `config.yaml` (seed, window, version)
